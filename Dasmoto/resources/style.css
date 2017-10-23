@@ -1,0 +1,28 @@
+html {
+  font-family: Helvetica;
+}
+h1 {
+  background-image: url("file:///Users/annie/Projects/Dasmoto/resources/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+h2.green {
+  background-color: mediumspringgreen;
+}
+h2.red {
+  background-color: lightcoral;
+}
+h2.blue {
+  background-color: skyblue;
+}
+span.price{
+  font-weight: bold;
+  color: blue;
+}
